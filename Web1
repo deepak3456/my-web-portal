@@ -2,4 +2,8 @@ my-web-portal/
  ├── index.html
  ├── style.css
  └── script.js
+git add .
+git commit -m "Updated design or content"
+git push origin main
+
 
