@@ -1,3 +1,5 @@
-index.html
-style.css
-script.js
+my-web-portal/
+ ├── index.html
+ ├── style.css
+ └── script.js
+
